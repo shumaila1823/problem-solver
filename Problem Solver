@@ -1,0 +1,89 @@
+```markdown
+# 🧠 Math Problem Solver – Forked and Documented by Sania Irshad
+
+## 📌 Introduction
+
+This repository is a **fork of the original project by [Shumaila](https://github.com/shumaila1823)**.  
+It is a Python-based math problem solver capable of handling **algebraic**, **calculus**, and **matrix-based** operations using SymPy and NumPy libraries.
+
+This fork includes the original logic, along with a structured `README.md`, better formatting, and documentation for academic and learning purposes.
+
+---
+
+## 🔧 System Components
+
+- **Input Module**: Takes user input for type of problem and values
+- **Processing Module**: Solves equations using symbolic and numerical techniques
+- **Output Module**: Displays final results
+
+📁 Module Structure:
+- `algebra/`: Linear and quadratic equations  
+- `calculus/`: Derivatives  
+- `linear_algebra/`: Matrix operations
+
+---
+
+## 🧱 Class/Function Design
+
+```
+MathSolver
+├── AlgebraSolver
+│   ├── solve_linear(a, b)
+│   └── solve_quadratic(a, b, c)
+├── CalculusSolver
+│   └── find_derivative(expr)
+└── MatrixSolver
+    ├── matrix_addition(A, B)
+    ├── matrix_multiplication(A, B)
+    └── matrix_determinant(A)
+```
+
+(Uses functions for simplicity; can be upgraded to full OOP.)
+
+---
+
+## ✨ Functionalities
+
+### ✅ Algebra Solver
+- Solves linear and quadratic equations using symbolic methods
+
+### ✅ Calculus Solver
+- Calculates the derivative of expressions
+
+### ✅ Matrix Solver
+- Adds, multiplies matrices, and calculates determinants
+
+---
+
+## 🧪 Approach
+
+1. **Modular Python Development**  
+2. **Library Integration**: SymPy and NumPy  
+3. **Interactive CLI Program**  
+4. **Sample Test Cases Included**
+
+---
+
+## 🏆 Achievements
+
+- Solved symbolic and numeric math problems successfully  
+- Built a reusable, modular Python project  
+- Ready for future improvements like GUI or web interface  
+
+---
+
+## 🧑‍💻 About Me
+
+**Sania Irshad**    
+GitHub: [Sania1125](https://github.com/Sania1125)
+
+---
+
+## 🙏 Credits
+
+Original Project by: [Shumaila](https://github.com/shumaila1823)  
+Forked and enhanced with documentation by: **Sania Irshad**
+```
+
+---
+
